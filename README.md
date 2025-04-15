@@ -1,6 +1,6 @@
 # HDFLM-fEnet
 
-This repo contains .R funcs and .rds data for simulating high-dimensional functional data and estimating the functional coefficients using our proposed functional elastic-net (fEnet) algorithms. The preprint of the paper can be find on ArXiv at https://arxiv.org/pdf/2310.14419. Simulation studies for For Scenario I, (n, p, q) = (100, 200, 10), rho = 0.75 can be reproduced using the R code. 
+This repo contains R funcs and RDS data for simulating high-dimensional functional data and estimating the functional coefficients using our proposed functional elastic-net (fEnet) algorithms. The preprint of the paper can be find on ArXiv at https://arxiv.org/pdf/2310.14419. Simulation studies for For Scenario I, (n, p, q) = (100, 200, 10), rho = 0.75 can be reproduced using the R code. 
 
 ## Overview
 
